@@ -1,3 +1,4 @@
 fn main() {
-    println!("Rust programming 2023");
+    let name = "wife";
+    println!("I love my {name}.");
 }

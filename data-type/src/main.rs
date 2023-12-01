@@ -10,6 +10,5 @@ fn main() {
     let salary: f32 = 1515.356;
     // println!("My salary is {}",salary);
     println!("Max value is {}", std::f32::MAX);
-
     
 }
